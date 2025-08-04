@@ -31,6 +31,9 @@ cargo run
 
 ## Screenshots
 
+<img width="397" height="588" alt="image" src="https://github.com/user-attachments/assets/2995348b-544e-4c46-a819-8999e8deeaeb" />
+<img width="396" height="591" alt="image" src="https://github.com/user-attachments/assets/fc0983dc-6657-4d60-bd99-231c32eba9ba" />
+<img width="398" height="496" alt="image" src="https://github.com/user-attachments/assets/06950ad1-769d-4068-8f24-908565e258c5" />
 
 
 ## Built With
